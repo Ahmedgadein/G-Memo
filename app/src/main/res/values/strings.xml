@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Memo</string>
+    <string name="title_label">Title</string>
+    <string name="notes_label">Notes</string>
+    <string name="show_subtitle_label">Show Subtitle</string>
+    <string name="hide_subtitle_label">Hide Subtitle</string>
+    <string name="subtitle_single_memo">1 memo</string>
+    <string name="subtitle_memos_format">%1$d Memos</string>
+</resources>
